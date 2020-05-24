@@ -15,8 +15,8 @@ This dataset has two versions:
   There are 20,000 training images with 2,000 images per class, and 5,000 test 
   images with 500 images per class.
 * We use the [Matterport implementation of Mask-RCNN](https://github.com/matterport/Mask_RCNN) 
-  to extract objects and their masks from the MS-COCO dataset. We resize cropped
-  objects and masks to 32x32 and pad zeros if necessary.
+  to extract objects and their masks from the MS-COCO dataset. We then resize 
+  cropped objects and masks to 32x32, and pad zeros if necessary.
 
 If you use this dataset, please consider citing this repository (bibtex below).
 
