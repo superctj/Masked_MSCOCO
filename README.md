@@ -22,7 +22,7 @@ If you use this dataset, please cite this repository (bibtex below).
 
 ## Download
 
-* Dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/17Xf8kFTADl7nH_d6a9NGQz0DJ-F9G5vy).
+* Dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/17Xf8kFTADl7nH_d6a9NGQz0DJ-F9G5vy?usp=sharing).
 * Both datasets contain an image directory, a mask directory, and a csv file
   listing the train and test partitions.
 * Download size:
