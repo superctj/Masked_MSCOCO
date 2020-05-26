@@ -35,7 +35,7 @@ If you use this dataset, please cite this repository (bibtex below).
 Use this bibtex to cite this repository:
 ```
 @misc{cong2019masked,
-  title={Masked MS-COCO for robust image classification},
+  title={Masked {MS-COCO} for robust image classification},
   author={Cong, Tianji and Prakash, Atul},
   year={2019},
   publisher={Github},
