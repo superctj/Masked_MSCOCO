@@ -18,7 +18,7 @@ This dataset has two versions:
   to extract objects and their masks from the MS-COCO dataset. We then resize 
   cropped objects and masks to 32x32, and pad zeros if necessary.
 
-If you use this dataset, please consider citing this repository (bibtex below).
+If you use this dataset, please cite this repository (bibtex below).
 
 ## Download
 
@@ -34,9 +34,9 @@ If you use this dataset, please consider citing this repository (bibtex below).
 ## Citation
 Use this bibtex to cite this repository:
 ```
-@misc{masked_mscoco_2019,
+@misc{cong2019masked,
   title={Masked MS-COCO for robust image classification},
-  author={Tianji Cong, Atul Prakash},
+  author={Cong, Tianji and Prakash, Atul},
   year={2019},
   publisher={Github},
   journal={GitHub repository},
